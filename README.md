@@ -7,4 +7,4 @@ Should replicate the following Timestamp microservice https://timestamp-ms.herok
 https://freecodecampapi02-stephaner.c9users.io
 
 ##Example output:
-{ "ipaddress": "192.1.1.1", "language": "fr-CA", software="Mac..." }
+{ "ipaddress": "192.1.1.1", "language": "fr-CA", software="Macintosh; Intel Mac OS X 10_11_2" }
